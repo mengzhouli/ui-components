@@ -1,17 +1,16 @@
 .btn-med {
 	border-radius: 20px;
-	border: 2px solid lightgrey;
-
-	opacity:0.8;
+	border: 1px solid grey;
+	opacity:0.6;
 	font-family: "Montserrat", "sans-serif";
 	font-weight: lighter;
-	color: lightgrey;
-	padding: 10px;
+	color: grey;
+	padding: 10px 50px;
 }
 
 .btn-med:hover {
 	text-decoration: none;
 	color: red;
 	border: 5px solid red;
-	opacity:0.7;
+	opacity:0.5;
 }
