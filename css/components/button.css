@@ -10,7 +10,6 @@
 
 .btn-med:hover {
 	text-decoration: none;
-	color: red;
-	border: 5px solid red;
-	opacity:0.5;
+	color: grey;
+	opacity: 1.0;
 }
