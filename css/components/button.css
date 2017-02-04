@@ -13,3 +13,19 @@
 	color: grey;
 	opacity: 1.0;
 }
+
+.btn-twit {
+	border-radius: 5px;
+	font-family: "Montserrat", "sans-serif";
+	font-weight: bold;
+	color: white;
+	background: #DB4437;
+	padding: 15px 15px;
+}
+
+.btn-twit:hover {
+	text-decoration: none;
+	color: white;
+	background: red;
+}
+
