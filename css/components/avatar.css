@@ -7,3 +7,8 @@
 	border-radius: 50%;
 	width: 30px;
 }
+
+.avatar-big {
+	border-radius: 50%;
+	width: 80px;
+}
